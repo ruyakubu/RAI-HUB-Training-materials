@@ -22,7 +22,7 @@ The overall structure of the workshop is to be engaging and interactive.  To ach
 	4) Then the instructor will proceed to the next lesson.
 
 
-Roles & Responsibility:
+## Roles & Responsibility:
 
 - **Trainer**: is the proctor that facilitates the workshop.
   
