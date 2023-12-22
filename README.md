@@ -2,11 +2,16 @@
 
 # Trainer's Guide
 
-Thank you for volunteering to be a trainer for the Responsible AI workshop. This is the trainer's guide for the lesson:
+Thank you for volunteering to be a trainer for the Responsible AI workshop. The workshop is designed to be delivered in a classroom setting.  It's hands-on workshops to data scientists or AI communities on how they can use Responsible AI tools service to safe-guard, debug, mitigate and deliver AI solutions that are less harmful and more trustworthy.  Participants will learn how to use the Responsible AI tools to detect jailbreaks, offensive content and mitigate bias, explain model behavior and debug models.   After completing the lessons, trainers and participants will gain cutting-edge knowledge on responsible AI services to identify and mitigate harmful outcomes for LLMs and traditional ML models earning a competitive advantage.
 
-* Reponsible AI Dashboard
-* Azure Content Safety for OpenAI
-* Azure ML Prompt Flow
+## Trainers resources
+
+| Subject  | Train-the-Trainer video |
+| ------------- | ------------- |
+| Reponsible AI Dashboard  | 🎥 [video](https://aka.ms/rai-hub/raidashboard-module-walkthrough) |
+| Azure Content Safety for OpenAI  | 🎥 [video](https://aka.ms/rai-hub/content-safety-trainer-guide)  |
+| Azure ML Prompt Flow  | 🎥 [video]()   |
+
 
 In this repository, you would find the following information:
 
