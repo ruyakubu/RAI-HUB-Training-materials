@@ -38,3 +38,4 @@ The overall structure of the workshop is to be engaging and interactive.  To ach
 
 Keep upto date with the latest communication discussions and announcements at the [Responsible AI Hub](https://github.com/Azure/responsible-ai-hub/discussions).  If you have any questions, please post them in the discussion forum ✨📣🗣️.
 
+![](/img/community-discussion.png)
