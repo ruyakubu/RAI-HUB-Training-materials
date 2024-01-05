@@ -10,8 +10,10 @@ Thank you for volunteering to be a trainer for the Responsible AI workshop. The 
 | ------------- | ------------- |
 | Reponsible AI Dashboard  | 🎥 [video](https://aka.ms/rai-hub/raidashboard-module-walkthrough) |
 | Azure Content Safety for OpenAI  | 🎥 [video](https://aka.ms/rai-hub/content-safety-trainer-guide)  |
-| Azure ML Prompt Flow  | 🎥 [video]()   |
+| Azure ML Prompt Flow  | 🎥 [video](https://aka.ms/rai-hub/prompt-flow-trainer-guide)   |
 
+
+**Duration**:  ~ 3.5hrs
 
 In this repository, you would find the following information:
 
@@ -21,11 +23,10 @@ In this repository, you would find the following information:
 
 The overall structure of the workshop is to be engaging and interactive.  To achieve this, the following should be the format:
 
-	1) The instructor will introduce a topic and concepts in a subject area.
-	2) There will be a breakout session for workshop. participants to complete each lab of the workshop in teams.
-	3) The instructor and the workshop will reconvene for a group discussion with questions pertaining to each subject area and lab.
-	4) Then the instructor will proceed to the next lesson.
-
+1. The instructor will introduce a topic and concepts in a subject area.
+2. There will be a breakout session for workshop. participants to complete each lab of the workshop in teams.
+3. The instructor and the workshop will reconvene for a group discussion with questions pertaining to each subject area and lab.
+4. Then the instructor will proceed to the next lesson.
 
 ## Roles & Responsibility:
 
@@ -33,5 +34,7 @@ The overall structure of the workshop is to be engaging and interactive.  To ach
   
 **NOTE**:  It is importance not to make claims that the Responsible AI tool will eliminate or solve all AI issues.
 
-Duration:  ~ 3hrs
+## Community Discussions:
+
+Keep upto date with the latest communication discussions and announcements at the [Responsible AI Hub](https://github.com/Azure/responsible-ai-hub/discussions).  If you have any questions, please post them in the discussion forum ✨📣🗣️.
 
